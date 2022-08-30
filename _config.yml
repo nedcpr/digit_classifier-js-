@@ -1,4 +1,4 @@
-remote_theme: pages-themes/hacker
+pages-themes/hacker
 plugins:
 - jekyll-remote-theme
 
