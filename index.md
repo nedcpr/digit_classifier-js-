@@ -1,8 +1,8 @@
 ---
-title: Home
 layout: page
+title: Home
 ---
 
 # Image Classifiers
 
-Examples of vision classifiers using JavaScript from PhD students at the School of Cybernetics, studying the [fast.ai](https://course.fast.ai) course.
+Examples of image classifiers developed by PhD students from the School of Cybernetics, studying the [fast.ai](https://course.fast.ai) course.
