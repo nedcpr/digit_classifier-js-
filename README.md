@@ -1,3 +1,3 @@
-# SoCy Classifiers
+# Sign Language Digit Classifier
 
-Minimal JS interface to an sign language digit classifier
+Minimal JS interface to a sign language digit classifier
