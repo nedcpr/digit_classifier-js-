@@ -1,3 +1,3 @@
 # Digit Classifier
 
-Minimal JS interface to an image classifer
+Minimal JS interface to an sign language digit classifier
