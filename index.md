@@ -3,6 +3,6 @@ title: Home
 layout: page
 ---
 
-# Image Classifiers
+# Sign Language Digit Classifiers
 
-Examples of image classifiers developed by PhD students from the School of Cybernetics, studying the [fast.ai](https://course.fast.ai) course.
+Examples of sign language digit classifiers, based on Lesson 2 of the [fast.ai](https://course.fast.ai) course.
